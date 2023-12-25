@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Risirin
-- 👀 I’m interested in making computer viruses
-- 🌱 I’m currently learning how to write batch more efficiently
+hi
